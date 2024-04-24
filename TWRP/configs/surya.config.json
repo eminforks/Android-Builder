@@ -1,0 +1,16 @@
+[
+    {
+        "OrangeFox": {
+            "Repo": "https://gitlab.com/OrangeFox/sync.git",
+            "Branch": "12.1"
+        },
+        "Device": {
+            "Repo": "https://github.com/brigudav/android_device_xiaomi_surya_twrp",
+            "Branch": "android-12.1",
+            "Location": "device/xiaomi/surya",
+            "DeviceName": "surya",
+            "Makefile": "twrp_surya",
+            "BootPartition": "boot"
+        }
+    }
+]
